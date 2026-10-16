@@ -342,9 +342,9 @@ onBeforeUnmount(() => {
             >
               <!-- Image with modern WebP + async decoding -->
               <picture class="absolute inset-0 w-full h-full">
-                <source srcset="/me2.webp" type="image/webp" />
+                <source srcset="/me.webp" type="image/webp" />
                 <img
-                  src="/me2.webp"
+                  src="/me.jpg"
                   alt="Vicente Vasquez"
                   width="370"
                   height="510"
